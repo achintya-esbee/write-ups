@@ -19,4 +19,4 @@ This repository is organized into several categories:
 
 ---
 
-*Stay curious. Stay secure.*
+*Daemons. They don't stop working.*
